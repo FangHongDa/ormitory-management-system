@@ -5,9 +5,9 @@
 
 
 #### 软件架构
-后端：SpringBoot + Mybatis + Redis +Mysql
-前端：Vue
-系统环境：jdk1.8 | mysql | redis | nodejs14+
+后端：SpringBoot + Mybatis + Redis +Mysql  
+前端：Vue  
+系统环境：jdk1.8 | mysql | redis | nodejs14+  
 
 #### 功能结构
 ![输入图片说明](images/image1.png)
@@ -70,6 +70,10 @@
 △宿管评分
 显示当前的宿管评分情况，并进行打分，可以批量导出评分数据。
 ![输入图片说明](images/image15.png)
+
+#### 项目预览
+地址：[商品详情 ](https://www.xunmaw.com/shop/detail/1624392459166236674)   
+点击商品详情中的演示地址，看查看系统录制的视频    
 
 #### 使用说明
 1. 创建数据库，执行数据库脚本
